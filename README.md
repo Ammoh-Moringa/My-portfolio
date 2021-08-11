@@ -19,6 +19,6 @@ To access this project on your local files, you can clone it using these steps
 3. JS
 
 ### Live Site
-View [live](https://ammoh-moringa.github.io/Delani--studio/)
+View [live](https://ammoh-moringa.github.io/My-portfolio/)
 ### Licence
-This project is under the  [MIT](licence) licence.
+This project is under the  [MIT](license) license.
